@@ -1,0 +1,28 @@
+html { 
+  background: url(https://i.pinimg.com/originals/c8/2f/c6/c82fc66e5ba57648ded9a9195e5c0a56.png) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+.button {
+  background-color: #2F4F4F;
+  border: none;
+  color: white  ;
+  padding: 10px 50px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 7px;
+  cursor: pointer;
+}
+h1{
+  font-family: cursive;
+}
+div{
+font-size: 40px;
+}
+input{
+  font-size:16pt;
+}
